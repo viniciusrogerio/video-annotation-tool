@@ -1,0 +1,18 @@
+[project]
+name = "video_annotation_tool"
+version = "0.1.0"
+description = "Ferramenta interativa para anotação de vídeos"
+authors = ["Vinicius <vinicius@example.com>"]
+requires-python = ">=3.8"
+dependencies = [
+    "opencv-python",
+    "pandas",
+    "openpyxl",
+    "tkinterdnd2",
+    "ttkbootstrap",
+    "Pillow"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

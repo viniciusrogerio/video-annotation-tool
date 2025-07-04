@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.avi
+*.mp4
+*.mov
+*.xlsx
+*.csv
+.DS_Store
